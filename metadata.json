@@ -1,0 +1,6 @@
+{
+  "name": "FinLedger ERP — Spring Boot 3 Accounting Architecture & Double-Entry Engine",
+  "description": "Blueprint arsitektur enterprise ERP, double-entry bookkeeping engine, skema database JPA/Flyway, dan dashboard analitik keuangan berbasis Spring Boot 3 & Java 17.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
